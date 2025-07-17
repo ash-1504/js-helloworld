@@ -12,7 +12,7 @@ let isloggedin = false
 //undefined 
 //symbol to find uniquness 
 //object    
-//these the the data types in js
+//these the the data types in js and all the data types are written in caps
 
 console.log(typeof null); // this will give out put as object
 console.log(typeof undefined); //this will give out put as undefined
