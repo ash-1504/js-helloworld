@@ -1,6 +1,6 @@
  // ARRAY
 
- /*const myArrex = [1 , 2 , 3 , 4 , 5] // array are written in the square brakets
+const myArrex = [1 , 2 , 3 , 4 , 5] // array are written in the square brakets
  // elements can be of diff data types  like string number etc
  //collection of multiple items in a single variable
  //array in js can be re-sizeable
@@ -45,7 +45,7 @@ console.log("B", myArr);
 const myn2 = myArr.splice(1,3)// this will give the output including the the last range
 //but it will also eliminate the values from the original string
 console.log(myn2);
-console.log("C" , myArr);*/
+console.log("C" , myArr);
 
  
 
